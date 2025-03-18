@@ -37,4 +37,4 @@ frontend/*.tsbuildinfo
 
 frontend/app-example
 
-backend/venv
+backend/venv/
