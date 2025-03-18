@@ -1,9 +1,9 @@
 import { View, Text, StyleSheet } from 'react-native';
 
-export default function CreateScreen() {
+export default function AskScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Create Recipe</Text>
+      <Text style={styles.title}>Ask</Text>
     </View>
   );
 }

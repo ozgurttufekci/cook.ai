@@ -1,9 +1,9 @@
 import { View, Text, StyleSheet } from 'react-native';
 
-export default function FavoritesScreen() {
+export default function GroceryScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Favorites</Text>
+      <Text style={styles.title}>Grocery List</Text>
     </View>
   );
 }
